@@ -9,8 +9,8 @@ I'm passionate about creating efficient, user-friendly web applications. With ov
 ## What I Mainly Work With
 
 - Laravel & PHP
-- Vue.js
-- MySQL
+- Vue.js & React
+- MySQL & PostgreSQL
 - AWS & DigitalOcean
 - Docker
 - Git & GitHub
