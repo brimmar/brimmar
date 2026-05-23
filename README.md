@@ -1,47 +1,50 @@
 # Hi, I'm Bryan 👋
 
-Full Stack Web Developer based in São Paulo, Brazil 🇧🇷
+Senior Full Stack Developer based in São Paulo, Brazil 🇧🇷
 
 ## About Me
 
-I'm passionate about creating efficient, user-friendly web applications. With over 5 years of experience, I enjoy tackling complex problems and turning ideas into reality through code. I'm always exploring new technologies and challenging myself with diverse projects.
+Senior Full Stack Developer with over 5 years of experience. Specializing in web applications, I excel in problem-solving, decision-making, adaptability, and time management. Proficient in Laravel, React, Vue, and PostgreSQL, with experience integrating various payment gateways and developing SaaS solutions.
 
 ## What I Mainly Work With
 
 - Laravel & PHP
-- Vue.js & React
-- MySQL & PostgreSQL
-- AWS & DigitalOcean
+- React & Vue
+- PostgreSQL & MySQL
+- Redis
+- AWS, DigitalOcean & Fly.io
 - Docker
 - Git & GitHub
 
 ## Current Learning Journey
 
-- Diving into Rust and Go
-- Exploring Arch Linux (currently on Pop!_OS)
+- Deep diving into Rust
+- Exploring agent orchestration and UX
+- On Arch Linux
 - Always open to new tech and challenges
 
-## Recent Professional Projects
+## Professional Experience
 
-- Developed a CMS for a gaming platform
-- Built a white-label SaaS solution
-- Created a multiplayer classic gaming platform
-- Integrated various payment gateways for e-commerce sites
+- CRM system development and maintenance at Netwall
+- CMS for a gaming platform
+- White-label SaaS solution
+- Multiplayer classic gaming platform
+- Integrated various payment gateways (Stripe, Mercado Pago, Paypal, Asaas, Efí)
 
 ## Personal Projects & Explorations
 
-- Flutter-based football app
-- Household finance management app using Filament, Livewire, and Laravel
-- Business management application
-- Job search assistance platform with Vue, Python, and Laravel
-- Professional and personal project management tool with Rust and WASM for a plugin system
-- Attempted to create my own Desktop Environment (it was a fun learning experience!)
+- Autonomous AI agent for Neovim (Rust)
+- Minimalist TUI music player (Rust)
+- AI agent orchestration platform (Firecracker)
+- Various tools, frameworks, and experiments in PHP, TypeScript, and Bash
+- Always prototyping and exploring new ideas
 
-I love taking on new challenges and making things work, even if they don't always turn out as planned. These projects keep me learning and growing as a developer.
+I love taking on new challenges and making things work. These projects keep me learning and growing as a developer.
 
 ## Get in Touch
 
+- [Website & Blog](https://brimmar.dev)
 - [LinkedIn](https://linkedin.com/in/brimmar)
-- [Personal Website](https://brimmar.dev)
+- [GitHub](https://github.com/brimmar)
 
 Feel free to explore my repositories and reach out if you'd like to collaborate or chat about tech!
